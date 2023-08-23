@@ -1,0 +1,4 @@
+flask
+numpy
+scikit-learn==1.2.0
+boto3
